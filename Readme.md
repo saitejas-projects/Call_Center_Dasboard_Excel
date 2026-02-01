@@ -4,7 +4,7 @@ An **interactive Call Center Dashboard built entirely in Microsoft Excel** using
 
 > ⚠️ Note: The dashboard is fully interactive **when opened in Microsoft Excel**.
 
-### Dashboard Preview
+# Dashboard Preview
 <img width="1341" height="655" alt="Dashboard" src="https://github.com/user-attachments/assets/8c87ba90-fd1a-43a4-85c6-2b85856b61ad" />
 
 
@@ -56,6 +56,7 @@ An **interactive Call Center Dashboard built entirely in Microsoft Excel** using
 - **Data Cleaning & Structuring**
 
 ---
+
 
 
 
